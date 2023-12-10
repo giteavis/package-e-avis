@@ -1,0 +1,13 @@
+{
+    "name": "e-avis/online",
+    "description": "A e-avis online package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EAvis\\Online\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
